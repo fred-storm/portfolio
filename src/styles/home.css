@@ -1,0 +1,40 @@
+.home {
+    height: 90vh;
+    background-repeat: none;
+    background-position: center;
+    background-size: cover;
+   
+}
+  .main {
+    font-size: 90px;
+  }
+
+
+
+  .main .title h1 {
+    font-size: 100px;
+    color: rgb(9, 227, 205);
+    border: 2px black;
+    border-style: solid;
+    margin: 0;
+   
+  }
+
+  .main .title h2 {
+    font-size: 60px;
+    color: rgb(9, 227, 205);
+    border: 2px red;
+    border-style: dotted;
+    margin: 0;
+  }
+  
+  .main .body {
+    position: relative;
+    border: 3px, red;
+  }
+  .main .body p {
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+   
+  }
